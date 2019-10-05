@@ -12,6 +12,8 @@ https://docs.google.com/spreadsheets/d/1FNCywA8HgDhmhNAlpXIz30EQ4SV41dJML2dQfMLH
 ## Publicando seu aplicativo web
 
 * Abra o editor em: `Ferramentas >> Editor de Scripts`
+* Crie um novo script `Arquivo >> Novo >> Arquivo de script`
+* Copie o arquivo `script.js` e cole nesse novo arquivo
 * Publique em: `Publicar >> Implantar como aplicativo da web`
 * Defina uma `Nova` versão para o aplicativo
 * No campo `Executar este aplicativo como`, escolha seu usuário
