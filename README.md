@@ -25,3 +25,13 @@ https://script.google.com/d/MJmNolS_KBjO243-qekdlj_zCY0K8kLRZ/edit?mid=ACjPJvFnM
 * Vá em `Ferramentas >> Webhook (API e Notificações)
 * Adicione uma `Nova configuração com a Url do seu aplicativo`
 * Você pode disparar um evento de teste para se certificar se está tudo certo.
+
+# IMPORTANTE !!
+
+* Não altere a ordem das colunas
+* Não altere os nomes das colunas
+* Não altere os nomes das abas
+
+# DICA :)
+
+Use essa planilha apenas como base de dados e crie uma outra para você trabalhar os dados.
