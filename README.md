@@ -7,7 +7,7 @@ Webhook para sincronizar os eventos do Hotmart com o google spreadsheets
 
 Faça uma cópia desse modelo para você
 
-https://script.google.com/d/MJmNolS_KBjO243-qekdlj_zCY0K8kLRZ/edit?mid=ACjPJvFnMKBR62DtRAyJPa9GfZ19YgzLm_4u_JOFhXjgsQclPv60tce_fN1MaNSw2vOXvabiOfsQ-Wl4hUveUWQ0KLwCqp0NoYzyKp9YGWWPuQpfwOHMkaSdqwftXYGlRUK3XgKjWVQ8&uiv=2
+https://docs.google.com/spreadsheets/d/1FNCywA8HgDhmhNAlpXIz30EQ4SV41dJML2dQfMLHZCk/edit?usp=sharing
 
 ## Publicando seu aplicativo web
 
